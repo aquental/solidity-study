@@ -1,2 +1,7 @@
-# solidity-study
-Study group on SOlidity
+# solidity
+
+Study group on Solidity
+
+---
+
+[OpenZeppelin Solidity Wizard](https://wizard.openzeppelin.com/)
